@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_test"
+  site-url: "https://MI-Architect.github.io/nbdev_test"
+  description: "Test of nbdev package"
+  repo-branch: main
+  repo-url: "https://github.com/MI-Architect/nbdev_test"
