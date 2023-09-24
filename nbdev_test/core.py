@@ -5,7 +5,7 @@ __all__ = ['say_hello', 'foo']
 
 # %% ../nbs/00_core.ipynb 2
 def say_hello(to):
-    "Say hello to somebody 1"
+    "Say hello to somebody 1 "
     return f'Hello {to}!'
 
 # %% ../nbs/00_core.ipynb 4
